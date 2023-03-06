@@ -250,4 +250,4 @@ Function Prototypes
   binary heap opeartions (one answer per line):
     * Inserting the value `n`.
     * Extracting the root node.
-    * Searching for a node in a binary heap of size `n`.
+    * Searching for a node in a binary heap of size n
